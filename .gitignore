@@ -1,0 +1,13 @@
+# C++
+*.exe
+*.o
+*.obj
+
+# Java
+*.class
+**/bin/
+
+# VS Code
+.vscode/
+node_modules/
+.DS_Store
