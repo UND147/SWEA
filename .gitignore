@@ -27,10 +27,26 @@
 node_modules/
 .DS_Store
 
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+
 # Build directories
 build/
 Build/
 build-*/
+Debug/
+Release/
+x64/
+x86/
+**/x64/
+**/x86/
+**/Debug/
+**/Release/
 
 # CMake generated files
 CMakeFiles/
